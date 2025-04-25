@@ -22,7 +22,7 @@ else:
     st.stop()
 
 # 🔁 Bin info (hardcoded or can be dynamic)
-BIN_ID = "-OOb2glfef5lDgtRYPWO"  # Optionally: st.session_state["bin_id"]
+BIN_ID = "-OOgBJewCIm0cx-tZ66f"  # Optionally: st.session_state["bin_id"]
 bin_ref = db.reference(f"/bins/{BIN_ID}")
 
 # --- STEP 1: Get Initial Weight ---

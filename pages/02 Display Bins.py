@@ -89,4 +89,4 @@ if map_result and map_result.get("last_clicked"):
         # ✅ Add button to move to deposit page
         if st.button("Proceed to Deposit Waste"):
             # (Optional) Could store location or bin info too
-            st.switch_page("pages/03 Deposit Waste.py")
+            st.switch_page("pages/03 Depost Waste.py")
