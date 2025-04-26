@@ -8,3 +8,4 @@ streamlit-folium
 firebase-admin
 pyrebase
 requests
+pycryptodome
